@@ -1,0 +1,270 @@
+2023-04-18 18:05:55,106 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-18 18:05:55,121 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-18 18:05:55,962 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-18 18:05:59,363 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-18 18:05:59,573 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-18 18:05:59,729 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-18 18:06:00,609 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-18 18:06:01,330 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-18 18:06:01,587 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-18 18:06:01,768 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-18 18:06:01,860 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-18 18:06:02,028 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-18 18:06:34,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-18 18:06:34,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-18 18:06:35,831 - QA Lead:: -INFO - >>>>> Automation Start with Chrome Browser <<<<< 
+2023-04-18 18:06:39,296 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-18 18:06:39,526 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-18 18:06:39,682 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-18 18:06:40,439 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-18 18:06:41,169 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-18 18:06:41,481 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-18 18:06:41,660 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-18 18:06:41,752 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-18 18:06:41,917 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-18 18:06:45,095 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-04-18 18:06:46,551 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-04-18 18:06:48,585 - QA Lead:: -INFO - >>>>> user able to select shipping method radial button and click on next button <<<<< 
+2023-04-18 18:06:51,052 - QA Lead:: -INFO - >>>>> user able to click on the place order button <<<<< 
+2023-04-18 18:06:52,205 - QA Lead:: -INFO - >>>>> user able to verify the confirmation message <<<<< 
+2023-04-25 19:06:33,971 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-25 19:06:34,013 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-25 19:06:38,944 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:06:39,163 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:06:39,316 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:06:40,056 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:06:40,784 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-25 19:06:41,032 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-25 19:06:41,213 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-25 19:06:41,309 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-25 19:06:41,470 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-25 19:12:07,119 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-25 19:12:07,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-25 19:12:11,766 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:12:11,990 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:12:12,142 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:12:12,839 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:12:13,512 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-25 19:12:13,777 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-25 19:12:13,949 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-25 19:12:14,046 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-25 19:12:14,209 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-25 19:12:45,900 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-25 19:12:45,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-25 19:12:49,899 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:12:50,111 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:12:50,266 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:12:50,952 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:12:51,557 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-25 19:12:51,887 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-25 19:12:52,058 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-25 19:12:52,147 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-25 19:12:52,298 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-25 19:12:56,874 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-04-25 19:12:58,152 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-04-25 19:13:00,480 - QA Lead:: -INFO - >>>>> user able to select shipping method radial button and click on next button <<<<< 
+2023-04-25 19:13:02,769 - QA Lead:: -INFO - >>>>> user able to click on the place order button <<<<< 
+2023-04-25 19:13:04,749 - QA Lead:: -INFO - >>>>> user able to verify the confirmation message <<<<< 
+2023-04-25 19:13:51,237 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 112.0.1722.58 (resolved driver for Edge 112)
+2023-04-25 19:13:51,249 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2023-04-25 19:13:51,784 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://msedgedriver.azureedge.net/112.0.1722.58/edgedriver_win64.zip
+2023-04-25 19:13:52,055 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file edgedriver_win64.zip
+2023-04-25 19:13:52,175 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\tanvi\.cache\selenium\msedgedriver\win64\112.0.1722.58\msedgedriver.exe
+2023-04-25 19:13:57,028 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:13:57,249 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:13:57,403 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:13:58,077 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:13:58,700 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-25 19:13:59,032 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-25 19:13:59,204 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-25 19:13:59,296 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-25 19:13:59,460 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-25 19:14:02,301 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-04-25 19:14:03,799 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-04-25 19:14:05,767 - QA Lead:: -INFO - >>>>> user able to select shipping method radial button and click on next button <<<<< 
+2023-04-25 19:14:07,936 - QA Lead:: -INFO - >>>>> user able to click on the place order button <<<<< 
+2023-04-25 19:14:08,998 - QA Lead:: -INFO - >>>>> user able to verify the confirmation message <<<<< 
+2023-04-25 19:14:27,577 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.33.0 (resolved driver for Firefox 111)
+2023-04-25 19:14:27,596 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-04-25 19:14:28,110 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+2023-04-25 19:14:28,396 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file geckodriver-v0.33.0-win64.zip
+2023-04-25 19:14:28,430 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\tanvi\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+2023-04-25 19:14:32,613 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:14:32,780 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:14:32,939 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:14:33,103 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:24:26,274 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 19:24:26,426 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-04-25 19:24:26,447 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-04-25 19:24:30,635 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-04-25 19:24:30,844 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-04-25 19:24:31,001 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-04-25 19:24:31,722 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-04-25 19:24:32,342 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-04-25 19:24:32,662 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-04-25 19:24:32,845 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-04-25 19:24:32,937 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-04-25 19:24:33,086 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-04-25 19:24:36,371 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-04-25 19:24:37,724 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-04-25 19:24:39,861 - QA Lead:: -INFO - >>>>> user able to select shipping method radial button and click on next button <<<<< 
+2023-04-25 19:24:42,183 - QA Lead:: -INFO - >>>>> user able to click on the place order button <<<<< 
+2023-04-25 19:24:43,842 - QA Lead:: -INFO - >>>>> user able to verify the confirmation message <<<<< 
+2023-05-02 21:16:39,100 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-02 21:16:39,102 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-02 21:16:39,493 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 21:16:39,503 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-02 21:16:44,174 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-02 21:16:44,325 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-02 21:16:44,480 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-02 21:16:45,168 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-02 21:16:45,850 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-02 21:16:46,097 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-02 21:16:46,263 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-02 21:16:46,356 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-02 21:16:46,523 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-02 21:17:16,954 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-02 21:17:44,026 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-02 21:17:44,028 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-02 21:17:44,172 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 21:17:44,201 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-02 21:17:48,653 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-02 21:17:48,815 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-02 21:17:48,973 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-02 21:17:49,593 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-02 21:17:50,297 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-02 21:17:50,559 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-02 21:17:50,725 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-02 21:17:50,819 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-02 21:17:50,983 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-02 21:18:21,207 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-02 21:19:52,809 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-02 21:19:52,811 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-02 21:19:52,922 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 21:19:52,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-02 21:19:58,477 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-02 21:19:58,632 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-02 21:19:58,790 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-02 21:19:59,420 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-02 21:20:00,155 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-02 21:20:00,422 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-02 21:20:00,600 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-02 21:20:00,676 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-02 21:20:00,842 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-02 21:20:45,128 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-02 21:27:31,468 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-02 21:27:31,471 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-02 21:27:31,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 21:27:31,656 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-02 21:27:35,751 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-02 21:27:35,938 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-02 21:27:36,080 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-02 21:27:36,804 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-02 21:27:37,507 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-02 21:27:37,815 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-02 21:27:37,972 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-02 21:27:38,060 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-02 21:27:38,233 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-02 21:27:41,552 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-05-02 21:27:42,923 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-05-02 21:27:44,674 - QA Lead:: -INFO - >>>>> user able to select shipping method radial button and click on next button <<<<< 
+2023-05-02 21:27:46,998 - QA Lead:: -INFO - >>>>> user able to click on the place order button <<<<< 
+2023-05-02 21:27:48,281 - QA Lead:: -INFO - >>>>> user able to verify the confirmation message <<<<< 
+2023-05-02 21:27:51,819 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-02 22:21:01,718 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-02 22:21:01,720 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-02 22:21:01,848 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-02 22:21:01,861 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-02 22:21:05,977 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-02 22:21:06,185 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-02 22:21:06,342 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-02 22:21:07,021 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-02 22:21:07,733 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-02 22:21:07,981 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-02 22:21:08,146 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-02 22:21:08,238 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-02 22:21:08,405 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-02 22:21:38,748 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-03 21:09:25,364 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-03 21:09:25,367 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-03 21:09:25,831 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 21:09:25,851 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 21:09:30,921 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-03 21:09:31,073 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-03 21:09:31,230 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-03 21:09:31,930 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-03 21:09:32,630 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-03 21:09:32,885 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-03 21:09:33,062 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-03 21:09:33,173 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-03 21:09:33,322 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-03 21:09:49,373 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-03 21:09:49,375 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-03 21:09:49,503 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 21:09:49,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 21:09:53,855 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-03 21:09:54,004 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-03 21:09:54,160 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-03 21:09:54,816 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-03 21:09:55,554 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-03 21:09:55,820 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-03 21:09:55,989 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-03 21:09:56,081 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-03 21:09:56,233 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-03 21:10:03,655 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-03 21:10:26,578 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-05 17:09:41,038 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-05 17:09:41,041 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-05 17:09:41,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-05 17:09:41,535 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-05 17:09:46,373 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-05 17:09:46,520 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-05 17:09:46,675 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-05 17:09:47,321 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-05 17:09:48,728 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-05 17:10:19,002 - QA Lead:: -INFO - >>>>> Automation Completed & Close the Browser <<<<< 
+2023-05-05 18:16:15,670 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-05 18:16:15,672 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-05 18:16:16,077 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-05 18:16:16,087 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-05 18:16:20,537 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-05 18:16:20,694 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-05 18:16:20,850 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-05 18:16:21,480 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-05 18:16:22,339 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-05 18:16:22,539 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-05 18:16:22,722 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-05 18:16:22,817 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-05 18:16:22,981 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-05 18:16:26,587 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-05-05 18:16:28,044 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-05-05 18:23:58,231 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-05 18:23:58,233 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-05 18:23:58,366 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-05 18:23:58,426 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-05 18:24:03,528 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-05 18:24:03,678 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-05 18:24:03,819 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-05 18:24:04,521 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-05 18:24:05,230 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-05 18:24:05,544 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-05 18:24:05,707 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-05 18:24:05,793 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-05 18:24:05,950 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-05 18:24:09,515 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-05-05 18:24:11,000 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
+2023-05-05 18:28:22,583 - QA Lead:: -INFO - >>>>> Automation Start <<<<< 
+2023-05-05 18:28:22,585 - QA Lead:: -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-05 18:28:22,710 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-05 18:28:22,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-05 18:28:27,763 - QA Lead:: -INFO - >>>>> User able to select Men module <<<<< 
+2023-05-05 18:28:27,914 - QA Lead:: -INFO - >>>>> User able to select Tops module <<<<< 
+2023-05-05 18:28:28,070 - QA Lead:: -INFO - >>>>> user able to select Jackets from Men module <<<<< 
+2023-05-05 18:28:28,789 - QA Lead:: -INFO - >>>>> user able to select a Jacket<<<<< 
+2023-05-05 18:28:29,472 - QA Lead:: -INFO - >>>>> user able to select a Jacket size <<<<< 
+2023-05-05 18:28:29,776 - QA Lead:: -INFO - >>>>> user able to select a Jacket Color <<<<< 
+2023-05-05 18:28:29,957 - QA Lead:: -INFO - >>>>> user able to select a Jacket Quantity <<<<< 
+2023-05-05 18:28:30,051 - QA Lead:: -INFO - >>>>> user able to click add to cart button <<<<< 
+2023-05-05 18:28:30,215 - QA Lead:: -INFO - >>>>> user able to click on the shopping cart pop-up<<<<< 
+2023-05-05 18:28:33,098 - QA Lead:: -INFO - >>>>> user able to click on the proceed to checkout<<<<< 
+2023-05-05 18:28:34,555 - QA Lead:: -INFO - >>>>> user able to add shipping information <<<<< 
