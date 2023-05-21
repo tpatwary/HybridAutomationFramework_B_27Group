@@ -10,8 +10,12 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-public class Utility {
-	public static String getScreenshot(WebDriver driver, String name) {
+import io.cucumber.java.Scenario;
+import luma.usa.BasePage.SuperClass;
+
+public class Utility extends SuperClass{
+	
+	public static String getScreenshot( String name) {
 		
 		String dateName = new SimpleDateFormat("MM.dd.yyyy-hh.mm.ss").format(new Date());
 		TakesScreenshot ts = (TakesScreenshot) driver;
@@ -22,6 +26,22 @@ public class Utility {
 			FileUtils.copyFile(source, finalDestination);
 		} catch (IOException e) {
 			// logger.log(Level.WARN, "Interrup ted!", e);
+			Thread.currentThread().interrupt();
+		}
+		return destination;
+	}
+
+	public static String getScreenshots(Scenario scenario) {
+		String screenshotName = scenario.getName().replaceAll(" ", "_");
+		String dateName = new SimpleDateFormat("MM.dd.yyyy-hh.mm.ss").format(new Date());
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		String destination = System.getProperty("user.dir") + "/Screenshot/" + screenshotName + dateName + ".png";
+		File finalDestination = new File(destination);
+		try { 
+			FileUtils.copyFile(source, finalDestination);
+		} catch (IOException e) {
+			
 			Thread.currentThread().interrupt();
 		}
 		return destination;
